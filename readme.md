@@ -3,4 +3,5 @@
 ## Contents
 
 - [Qubit States](qubitstates.md) - Understanding qubit states, superposition, and probability amplitudes
-- [Multi-Qubit States](multiqubitstates.md) - Two-qubit systems, entanglement, Bell states, and n-qubit systems
+- [Bra-Ket Notation](braketnotation.md) - Dirac notation, inner products, and probability calculations
+- [Multi-Qubit States](multiqubitstates.md) - Two-qubit systems, tensor products, and n-qubit systems
